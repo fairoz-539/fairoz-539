@@ -1,6 +1,6 @@
 # Hi, I'm Fairoz 👋
 
-📍 Chennai, India · 🛠️ Full-stack & AI developer · 📦 4 packages on npm · 🐍 1 on PyPI · 🕷️ Happiest when a scraper works on the first try
+🛠️ Full-stack & AI developer · 📦 4 packages on npm · 🐍 1 on PyPI · 🕷️ Happiest when a scraper works on the first try
 
 I build open-source tools that connect the web, documents and AI: scrapers that turn any page into clean data for LLMs, and libraries that let code create and edit PowerPoint files.
 
@@ -36,9 +36,6 @@ I build open-source tools that connect the web, documents and AI: scrapers that 
 
 ## Connect
 
-[![Portfolio](https://img.shields.io/badge/-fairoz--portfolio.vercel.app-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://fairoz-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-Fairoz%20Ahmed-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fairoz-ahmed-28242a24b/)
-[![Email](https://img.shields.io/badge/-fairosahmed.ai@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:fairosahmed.ai@gmail.com)
 [![GitHub](https://img.shields.io/badge/-fairoz--539-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fairoz-539)
 [![npm](https://img.shields.io/badge/-~fairoz-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~fairoz)
 [![PyPI](https://img.shields.io/badge/-minicrawl--py-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/minicrawl-py/)
