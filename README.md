@@ -36,6 +36,7 @@ I build open-source tools that connect the web, documents and AI: scrapers that 
 
 ## Connect
 
+[![Portfolio](https://img.shields.io/badge/-fairoz--portfolio.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://fairoz-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/-fairoz--539-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/fairoz-539)
 [![npm](https://img.shields.io/badge/-~fairoz-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/~fairoz)
 [![PyPI](https://img.shields.io/badge/-minicrawl--py-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/minicrawl-py/)
